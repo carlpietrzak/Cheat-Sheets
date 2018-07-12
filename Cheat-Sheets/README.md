@@ -12,7 +12,9 @@ This folder contains cheat sheets that are relevant to the course.
 ## Jupyter Notebook
 [Jupyter Notebook Cheat Sheet](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Jupyter-Notebook-Cheat-Sheet.pdf)
 
-[Markdown Cheat Sheet](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Markdown-Cheat-Sheet.pdf)
+[Markdown Cheat Sheet #1](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Markdown-Cheat-Sheet.md)
+
+[Markdown Cheat Sheet #2](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Markdown-Cheat-Sheet.pdf)
 
 
 ## General Python
