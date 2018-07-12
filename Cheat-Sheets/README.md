@@ -58,7 +58,7 @@ This folder contains cheat sheets that are relevant to the course.
 ## Machine Learning
 [Scikit Learn Cheat Sheet](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Scikit-Learn-Cheat-Sheet%20.pdf)
 
-[Scikit Learn Algorithms Roadmap](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Scikit-Learn-Algorithms.png)
+[Scikit Learn Algorithms](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Scikit-Learn-Algorithms.png)
 
 [Machine Learning Algorithms](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Machine-Learning-Algorithms.pdf)
 
