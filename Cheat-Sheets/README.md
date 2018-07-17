@@ -6,6 +6,8 @@ This folder contains cheat sheets that are relevant to the course.
 ## Command Line and Git
 [Command Line Cheat Sheet](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Command-Line_Cheat-Sheet.pdf)
 
+[Unix Command Line Cheat Sheet](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Unix%20commands%20reference%20.pdf)
+
 [Git Cheat Sheet #1](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Git-Cheat-Sheet-1.pdf)
 
 [Git Cheat Sheet #2](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Cheat-Sheets/Git-Cheat-Sheet.pdf)
