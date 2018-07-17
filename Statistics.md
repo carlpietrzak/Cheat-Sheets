@@ -16,3 +16,8 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [Khan Academy Section on Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample).
 - [StackOverflow Link to Confidence Interval in SciPy](http://stackoverflow.com/questions/28242593/correct-way-to-obtain-confidence-interval-with-scipy).
 - [Computer-age Statistical Inference](http://web.stanford.edu/~hastie/CASI/) - A 2016 book that covers various topics in statistical inference that are relevant in this data-science era, with scalable techniques applicable to large datasets. A free PDF can be [downloaded from here](https://web.stanford.edu/~hastie/CASI_files/PDF/casi_corrected_11102017.pdf).
+
+
+
+
+[Precision, Recall, Sensitivity and Specificity](https://uberpython.wordpress.com/2012/01/01/precision-recall-sensitivity-and-specificity/) - A useful discussion on confusion matrices.
