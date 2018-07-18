@@ -15,14 +15,23 @@ this time on 'if' statements.
 great (graphical) explanation of list comprehension in Python.
 - [Python 3 Official Documentation](https://docs.python.org/3/)
 - [Python Official Beginners Guide](https://wiki.python.org/moin/BeginnersGuide)
+- [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) - _Think Python_ is an introduction to Python programming for beginners. You can download a free PDF, view online and even access the Python code.
 
 ## Python for Data Analysis
 ### Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 
-
 ### Pandas 
+- [Pandas Official Documentation](http://pandas.pydata.org/pandas-docs/stable/) - Pandas has a pretty good documentation. Here you can read about different Pandas functions and methods. Also check out [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) and the [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
+- [Data School's Pandas series](http://www.dataschool.io/easier-data-analysis-with-pandas/) - if you prefer learning from videos. A handy video series geared towards beginners with thorough explanations. 
+
 
 ### NumPy
 
+
+## Websites to Practice Python/Coding
+- [Codewars](https://www.codewars.com)
+- [HackerRank](https://www.hackerrank.com)
+- [CodeSignal](https://codesignal.com)
+- [Exercism](https://exercism.io)
