@@ -35,3 +35,4 @@ great (graphical) explanation of list comprehension in Python.
 - [HackerRank](https://www.hackerrank.com)
 - [CodeSignal](https://codesignal.com)
 - [Exercism](https://exercism.io)
+- [Project Euler](https://projecteuler.net) - a website odedicated to **a lot** of computational problems intended to be solved with computer programs.
