@@ -8,4 +8,6 @@ This repository contains resources and cheatsheets that will be helpful for the 
 
 [Statistics](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Statistics.md) - contains mostly optional reading for students who would like to deepen the understanding of statistics.
 
-[Datasets](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md) - links to a lot of datasets.
+[Datasets](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md) -  links to interesting datasets.
+
+
