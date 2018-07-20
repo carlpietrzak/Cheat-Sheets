@@ -7,3 +7,5 @@ This repository contains resources and cheatsheets that will be helpful for the 
 [Python](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Python.md) - contains different Python, Pandas and NumPy guides, tips and tricks.
 
 [Statistics](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Statistics.md) - contains mostly optional reading for students who would like to deepen the understanding of statistics.
+
+[Datasets](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md) - links to a lot of datasets.
