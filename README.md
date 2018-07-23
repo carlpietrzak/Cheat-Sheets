@@ -2,12 +2,12 @@
 
 This repository contains resources and cheatsheets that will be helpful for the course. 
 
-[Cheat Sheets](https://git.generalassemb.ly/AdiBro/Resources/tree/master/Cheat-Sheets) - contains a lot of useful cheat sheets for Python, data analysis, machine learning, Git and more.
+[Cheat Sheets](Cheat-Sheets) - contains a lot of useful cheat sheets for Python, data analysis, machine learning, Git and more.
 
-[Python](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Python.md) - contains different Python, Pandas and NumPy guides, tips and tricks.
+[Python](Python.md) - contains different Python, Pandas and NumPy guides, tips and tricks.
 
-[Statistics](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Statistics.md) - contains mostly optional reading for students who would like to deepen the understanding of statistics.
+[Statistics](Statistics.md) - contains mostly optional reading for students who would like to deepen the understanding of statistics.
 
-[Datasets](https://git.generalassemb.ly/AdiBro/Resources/blob/master/Datasets.md) -  links to interesting datasets.
+[Datasets](Datasets.md) -  links to interesting datasets.
 
 
