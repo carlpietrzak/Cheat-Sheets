@@ -30,10 +30,12 @@ great (graphical) explanation of list comprehension in Python.
 
 ### Pandas 
 - [Pandas Official Documentation](http://pandas.pydata.org/pandas-docs/stable/) - Pandas has a pretty good documentation. Here you can read about different Pandas functions and methods. Also check out [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) and the [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
+  - [Pandas - Merge, Join, and Concatenate](http://pandas.pydata.org/pandas-docs/stable/merging.html)
 - [Data School's Pandas series](http://www.dataschool.io/easier-data-analysis-with-pandas/) - if you prefer learning from videos. A handy video series geared towards beginners with thorough explanations. 
 - [Introduction to Pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html) 
 - [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote. 
 - [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
+
 
 ### Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
