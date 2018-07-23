@@ -30,7 +30,8 @@ great (graphical) explanation of list comprehension in Python.
 
 ### Pandas 
 - [Pandas Official Documentation](http://pandas.pydata.org/pandas-docs/stable/) - Pandas has a pretty good documentation. Here you can read about different Pandas functions and methods. Also check out [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) and the [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
-  - [Pandas - Merge, Join, and Concatenate](http://pandas.pydata.org/pandas-docs/stable/merging.html)
+  - [Merge, Join, and Concatenate](http://pandas.pydata.org/pandas-docs/stable/merging.html)
+  - [Group By: split-apply-combine](http://pandas.pydata.org/pandas-docs/stable/groupby.html) 
 - [Data School's Pandas series](http://www.dataschool.io/easier-data-analysis-with-pandas/) - if you prefer learning from videos. A handy video series geared towards beginners with thorough explanations. 
 - [Introduction to Pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html) 
 - [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote. 
