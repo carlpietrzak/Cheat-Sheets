@@ -6,5 +6,5 @@
 - [Another List of Awesome Datasets](https://github.com/bulutyazilim/awesome-datascience#data-sets) - from [Awesome Data Sciencce](https://github.com/bulutyazilim/awesome-datascience).
 - [Fivethirtyeight](https://fivethirtyeight.com) publishes a fair amount of data on their [GitHub account](https://github.com/fivethirtyeight/data). 
 - [Data is Plural](https://tinyletter.com/data-is-plural) - a weekly newsletter of datasets  by [Jeremy Singer-Vine](https://twitter.com/jsvine), the data editor of [BuzzFeed News](https://www.buzzfeednews.com).
-  - Also check out the [https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).
+  - Also check out the [Data is Plural Archives](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).
 - [20 Free Big Data Sources Everyone Should Know](http://www.smartdatacollective.com/big-data-20-free-big-data-sources-everyone-should-know/)
