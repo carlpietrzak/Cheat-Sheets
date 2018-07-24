@@ -27,6 +27,8 @@ great (graphical) explanation of list comprehension in Python.
 - [Python - Data Science Tutorial](https://www.tutorialspoint.com/python/python_data_science.htm) - another tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
 - [Python for Data Analysis](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html) - a blog with a detailed guide for data analysis with Python from A (Python basics) to Z (building predictive models in Python).
 - [Data Exploration in Python](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf) - using NumPy, Pandas and Matplotlib. 
+- [EDA Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python#gs.T3TSKbk)
+
 
 ### Pandas 
 - [Pandas Official Documentation](http://pandas.pydata.org/pandas-docs/stable/) - Pandas has a pretty good documentation. Here you can read about different Pandas functions and methods. Also check out [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) and the [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
@@ -36,6 +38,7 @@ great (graphical) explanation of list comprehension in Python.
 - [Introduction to Pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html) 
 - [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote. 
 - [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
+- [List of Resources from Data School](http://www.dataschool.io/best-python-pandas-resources/)
 
 
 ### Statistics in Python
