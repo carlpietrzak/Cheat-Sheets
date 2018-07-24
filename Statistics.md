@@ -53,3 +53,4 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [K-means and Hierarchical Clustering](https://www.autonlab.org/_media/tutorials/kmeans11.pdf) - clustering tutorial  from Andrew Moore's CS class at Carnegie Mellon. (There are additional tutorials at https://www.autonlab.org.)
 - [Visualizing K-Means Clustering](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) - a thoretical as well as a visual overview of the K-Means algorithm.
 - [Visualizing DBSCAN Clustering](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) - same as the previous link, just for DBSCAN clustering algorithm. 
+- [Stanford Walkthrough of Hierarchical Clustering](http://www.econ.upf.edu/%7Emichael/stanford/maeb7.pdf)
