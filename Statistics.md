@@ -25,7 +25,7 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [Wikipedia: Mean Square Error](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Wikipedia: Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
 - [Stanford Statistical Learning - Ridge Regression](https://www.youtube.com/watch?v=cSKzqb0EKS0&list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI&index=6) - a video lecture from Stanford's Statistical Learning class.
-- [Stanford Statistical Learning - Lasso Regression](https://www.youtube.com/watch?v=A5I1G1MfUmA&index=7&list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI)
+- [Stanford Statistical Learning - Lasso Regression](https://www.youtube.com/watch?v=A5I1G1MfUmA&index=7&list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) - a video lecture from Stanford's Statistical Learning class.
 
 ## Classification
 ### Logistic Regression
