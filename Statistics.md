@@ -46,3 +46,10 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 ## Bias-Variance Tradeoff
 - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - excellent (and even a must!) read on the bias variance tradeoff.
 - [Bias-Variance Tradeoff Lecture](https://www.youtube.com/watch?v=zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
+
+## Clustering
+- [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/)
+- [An Introduction to K-means Clustering Analysis](http://blog.galvanize.com/introduction-k-means-cluster-analysis/) - contains a theoretical explanation, pseudocode and Python code examples.
+- [K-means and Hierarchical Clustering](https://www.autonlab.org/_media/tutorials/kmeans11.pdf) - clustering tutorial  from Andrew Moore's CS class at Carnegie Mellon. (There are additional tutorials at https://www.autonlab.org.)
+- [Visualizing K-Means Clustering](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) - a thoretical as well as a visual overview of the K-Means algorithm.
+- [Visualizing DBSCAN Clustering](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) - same as the previous link, just for DBSCAN clustering algorithm. 
