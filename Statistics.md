@@ -48,7 +48,8 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [Bias-Variance Tradeoff Lecture](https://www.youtube.com/watch?v=zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
 
 ## Tree Based Methods (Decision Trees and Random Forests)
-[How does randomization in a random forest work?](https://www.quora.com/How-does-randomization-in-a-random-forest-work?redirected_qid=212859)
+- [Random Forests Guide](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
+- [How does randomization in a random forest work?](https://www.quora.com/How-does-randomization-in-a-random-forest-work?redirected_qid=212859)
 
 ## Clustering
 - [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/)
