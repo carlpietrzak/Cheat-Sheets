@@ -6,7 +6,7 @@ This repository contains resources and cheatsheets that will be helpful for the 
 
 [Python](Python.md) - contains different Python, Pandas and NumPy guides, tips and tricks.
 
-[Statistics](Statistics.md) - contains mostly optional reading for students who would like to deepen the understanding of statistics.
+[Statistics](Statistics.md) - contains mostly optional reading for students who would like to deepen their understanding of statistics.
 
 [Datasets](Datasets.md) -  links to interesting datasets.
 
