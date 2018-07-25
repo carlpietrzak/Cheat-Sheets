@@ -1,4 +1,4 @@
-# Resources
+# Data Science Resources
 
 This repository contains resources and cheatsheets that will be helpful for the course (and after it!). 
 
