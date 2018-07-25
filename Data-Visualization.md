@@ -37,4 +37,4 @@
   - [Bokeh Examples Gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html)
   - [Bokeh Reference Guide](http://bokeh.pydata.org/en/latest/docs/reference.html)
 - [Bokeh 5-minute Overview](https://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/quickstart/quickstart.ipynb)  
-- [Bokeh Tutorial]
+- [Bokeh Tutorial](https://www.fullstackpython.com/bokeh.html)
