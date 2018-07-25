@@ -1,6 +1,6 @@
 # Natural Language Processing (NLP) Resources
 
-- [Natural Language Processing Nuggets: Getting Started with NLP](https://www.kdnuggets.com/2018/06/getting-started-natural-language-processing.html) - a collection of NLP resources for beginners from KDnuggets](https://www.kdnuggets.com), starting from zero and slowly progressing to the point that readers should have an idea of where to go next.
+- [Natural Language Processing Nuggets: Getting Started with NLP](https://www.kdnuggets.com/2018/06/getting-started-natural-language-processing.html) - a collection of NLP resources for beginners from [KDnuggets](https://www.kdnuggets.com), starting from zero and slowly progressing to the point that readers should have an idea of where to go next.
 - [Natural Language Toolkit](http://www.nltk.org/) - NLTK documentation.
   - [Natural Language Processing with Python](http://www.nltk.org/book/) – Analyzing Text with the Natural Language Toolkit.
 - SKLearn NLP Documentation:
