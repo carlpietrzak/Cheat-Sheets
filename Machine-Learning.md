@@ -18,6 +18,7 @@ explains how solve machine learning problems using Python's popular scikit-learn
 ## Supervised Learning
 - [Scikit-Learn Supervised Learning Documentation](http://scikit-learn.org/stable/supervised_learning.html)
 - [Scikit-learn Basics Tutorial](http://marcharper.codes/2016-01-24/Abalone.html) - a quick tutorial of how to visualize, estimate, and classify with the Abalone dataset.
+- [Introduction to Machine Learning in Python with Scikit-Learn (video series)](https://www.dataschool.io/machine-learning-with-scikit-learn/) - a series of scikit-learn video tutorials, from [Data School](https://www.dataschool.io). There's also a [GitHub repository with Jupyter Notebooks](https://github.com/justmarkham/scikit-learn-videos).
 
 ### Regression
 - [Scikit-Learn Generalized Linear Models Documentation](http://scikit-learn.org/stable/modules/linear_model.html)
@@ -40,6 +41,7 @@ explains how solve machine learning problems using Python's popular scikit-learn
 - [SKLearn Documentation on Implementing KNN](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) - K-Neighbors Classifier
 - [K-Nearest Neighbors Examples](http://marcharper.codes/2016-06-22/Classification.html) - an example of K-Nearest Neighbors Classifier (in a Jupyter Notebook).
 - [Precision-Recall](http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py)
+- [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html)
 
 ### Tree Based Methods
 - [Decision Trees in Scikit-learn](http://scikit-learn.org/stable/modules/tree.html)
@@ -60,6 +62,8 @@ explains how solve machine learning problems using Python's popular scikit-learn
 - [Hyperplane Walkthrough on SKLearn](http://scikit-learn.org/stable/auto_examples/svm/plot_separating_hyperplane.html#example-svm-plot-separating-hyperplane-py) - SVM: Maximum margin separating hyperplane.
 
 ## Unsupervised Learning
+- [Scikit-Learn Unsupervised Learning Documentation](http://scikit-learn.org/stable/unsupervised_learning.html)
+
 ### Clustering
 - [Scikit-Learn Clustering Overview](http://scikit-learn.org/stable/modules/clustering.html)
   - [Scikit-Learn K-means Overview](http://scikit-learn.org/stable/modules/clustering.html#k-means)
