@@ -1,0 +1,7 @@
+-   [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) - an open source Data Science repository to learn and apply towards solving real world problems.
+-   [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) - from [ujjwalkarn GitHub](https://github.com/ujjwalkarn). A repo that contains a curated list of Python tutorials for Data Science, NLP and Machine Learning.
+-   [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR) - this repo contains a curated list of R tutorials and packages for Data Science, NLP and Machine Learning. This also serves as a reference guide for several common data analysis tasks.
+-   [Data Science Resources on Claudml](http://www.claoudml.co/#-1)
+-   [Data School's Data Science Resources](https://www.dataschool.io/start/) - a categorized guide to Data School's blog posts, videos, courses, Jupyter notebooks, and webcast recordings.
+- [From [Awesome Python](https://github.com/vinta/awesome-python)]:
+  - [Awesome Data Analysis](https://github.com/vinta/awesome-python#data-analysis)
