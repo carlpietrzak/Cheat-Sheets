@@ -8,3 +8,5 @@
 - [Data is Plural](https://tinyletter.com/data-is-plural) - a weekly newsletter of datasets  by [Jeremy Singer-Vine](https://twitter.com/jsvine), the data editor of [BuzzFeed News](https://www.buzzfeednews.com).
   - Also check out the [Data is Plural Archives](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0).
 - [20 Free Big Data Sources Everyone Should Know](http://www.smartdatacollective.com/big-data-20-free-big-data-sources-everyone-should-know/)
+- [Open Data Sources](https://github.com/datasciencemasters/data) 
+- ["A Plethora of Data Set Repositories"](https://www.datasciencecentral.com/profiles/blogs/a-plethora-of-data-set-repositories) - these 19 'sets of data sets' cover free or public data from various industries, including small and large, structured and unstructured data sets. From [Data Science Centeral](https://www.datasciencecentral.com/).
