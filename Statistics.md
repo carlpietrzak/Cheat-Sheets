@@ -11,6 +11,7 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 - [Chris Albon's Statistics Tutorials](https://chrisalbon.com/#statistics) 
+- [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html)
 
 ## Statistical Inference
 - [STAT 415 Intro Mathematical Statistics (Penn State)](https://onlinecourses.science.psu.edu/stat414/node/213) - great resource for more details on statistical inference. Its preceding course, [STAT 414 Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/node/287/) is also worth checking. 
