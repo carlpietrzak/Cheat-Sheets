@@ -2,6 +2,7 @@
 
 ## Command Line
 - [Bash Shell Reference](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html) - command line commands.
+- [General Assembly's Command Line Introduction](http://generalassembly.github.io/prework/cl/#/) - geared mostly toward Mac users (terminal), but still useful.
 
 ## Git and GitHub
 - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) - a video from GitHub.
