@@ -40,7 +40,7 @@ great (graphical) explanation of list comprehension in Python.
 - [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
 - [Pandas Tutorial: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/) 
 - [List of Resources from Data School](http://www.dataschool.io/best-python-pandas-resources/)
-
+- [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - a BitBucket repo with Pandas lessons, cookbooks and tools.
 
 ### Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
