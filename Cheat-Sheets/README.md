@@ -80,6 +80,8 @@ This folder contains cheat sheets that are relevant to the course.
 
 - [Machine Learning Algorithms](Machine-Learning-Algorithms.pdf)
 
+## Statistics
+- [Statistics Cheat Sheet](stats_handout.pdf)
 
 ## Linear Algebra
 - [Linear Algebra in 4 Pages](Linear-Algebra-In-4-Pages.pdf)
