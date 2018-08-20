@@ -14,6 +14,8 @@
 - [Text Analytics with Python](https://github.com/dipanjanS/text-analytics-with-python) - a repo for the book with the same name.
   - [Jupyter Notebooks with Code and Examples](https://github.com/dipanjanS/text-analytics-with-python/tree/master/Old_Edition_v1/notebooks)
 - [Natural Language Processing Nuggets: Getting Started with NLP](https://www.kdnuggets.com/2018/06/getting-started-natural-language-processing.html) - a collection of NLP resources for beginners from [KDnuggets](https://www.kdnuggets.com), starting from zero and slowly progressing to the point that readers should have an idea of where to go next.
+- [Statistical Learning for Text Classification with scikit-learn and NLTK](https://pyvideo.org/pycon-us-2011/pycon-2011--statistical-machine-learning-for-text.html) - thirty minute introduction to text classification. Explains how to use NLTK and scikit-learn to solve real-world text classification tasks and compares against cloud-based solutions.
+  - [Slides from the Lecture](https://www.slideshare.net/ogrisel/statistical-machine-learning-for-text-classification-with-scikitlearn-and-nltk)
 
 ## Gensim 
 - [Gensim Website](https://radimrehurek.com/gensim/) - Gensim is a free Python library designed to automatically extract semantic topics from documents.
@@ -51,7 +53,6 @@
   - [Examples](https://github.com/explosion/spaCy/tree/master/examples)
 - [Getting Started with spaCy for Natural Language Processing](https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html)
 - [Natural Language Processing Made Easy – using SpaCy (​in Python)](https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/)
-
 
 ## TextBlob
 - [TextBlob Website](https://textblob.readthedocs.io/en/dev/) - TextBlob is a Python (2 and 3) library for processing textual data. 
