@@ -35,6 +35,7 @@
 - [NLTK GitHub Repo](https://github.com/nltk/nltk)
   - [NLTK Wiki](https://github.com/nltk/nltk/wiki)
   - [NLTK FAQ](https://github.com/nltk/nltk/wiki/FAQ)
+- [Dive Into NLTK, Part I: Getting Started with NLTK](https://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk) - the first article in a series of articles on working with NLTK.
 
 ## SKLearn NLP
 - SKLearn NLP Documentation:
@@ -53,6 +54,7 @@
   - [Examples](https://github.com/explosion/spaCy/tree/master/examples)
 - [Getting Started with spaCy for Natural Language Processing](https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html)
 - [Natural Language Processing Made Easy – using SpaCy (​in Python)](https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/)
+- [Intro to NLP with spaCy](https://nicschrading.com/project/Intro-to-NLP-with-spaCy/) - "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn." 
 
 ## TextBlob
 - [TextBlob Website](https://textblob.readthedocs.io/en/dev/) - TextBlob is a Python (2 and 3) library for processing textual data. 
@@ -62,6 +64,7 @@
   - [API Reference](https://textblob.readthedocs.io/en/dev/api_reference.html)
 - [TextBlog GitHub Repo](https://github.com/sloria/textblob)
 - [Natural Language Processing for Beginners: Using TextBlob](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/)
+- [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/) - tutorial for TextBlob.
 
 
  
