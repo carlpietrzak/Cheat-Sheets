@@ -29,7 +29,7 @@ great (graphical) explanation of list comprehension in Python.
   
 ## Python for Data Analysis
 - [Python and Data Analysis](https://chrisalbon.com/#python) - excellent guide for data anaylsis with Python - basic Python, data  wrangling, data visualization and more. Part of [Chris Albon's excellent website](https://chrisalbon.com) 
-- [https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
+- [Python for Data Analysis](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
 - [Python - Data Science Tutorial](https://www.tutorialspoint.com/python/python_data_science.htm) - another tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
 - [Python for Data Analysis](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html) - a blog with a detailed guide for data analysis with Python from A (Python basics) to Z (building predictive models in Python).
 - [Data Exploration in Python](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf) - using NumPy, Pandas and Matplotlib. 
