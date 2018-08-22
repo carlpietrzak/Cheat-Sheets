@@ -25,6 +25,7 @@ great (graphical) explanation of list comprehension in Python.
   - [Dive Into Python](http://www.diveintopython.net) - the original book/guide (written for Python 2).
 - [A Whirlwind Tour of Python](https://www.safaribooksonline.com/library/view/a-whirlwind-tour/9781492037859/) - a free tutorial for Python - "a brief yet comprehensive introduction to Python for engineers, researchers, and data scientists who are already familiar with another programming language." Also available in a [free PDF file](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
   - [A Whirlwind Tour of Python - GitHub Repo](https://github.com/jakevdp/WhirlwindTourOfPython) - a repository that contains the Jupyter Notebooks behind the O'Reilly report, A Whirlwind Tour of Python. 
+- [Python Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#python-data) - IPython Notebook(s) demonstrating Python functionality geared towards data analysis. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
   
 ## Python for Data Analysis
 - [Python and Data Analysis](https://chrisalbon.com/#python) - excellent guide for data anaylsis with Python - basic Python, data  wrangling, data visualization and more. Part of [Chris Albon's excellent website](https://chrisalbon.com) 
@@ -49,7 +50,7 @@ great (graphical) explanation of list comprehension in Python.
 - [List of Resources from Data School](http://www.dataschool.io/best-python-pandas-resources/)
 - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - a BitBucket repo with Pandas lessons, cookbooks and tools.
 - [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/#3.-Data-Manipulation-with-Pandas) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
-
+- [Pandas Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) - IPython Notebook(s) demonstrating pandas functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
 
 ### Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
@@ -64,6 +65,7 @@ great (graphical) explanation of list comprehension in Python.
 - [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/#2.-Introduction-to-NumPy) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 - [NumPy Tutorial](https://www.tutorialspoint.com/numpy/) - a very detailed NumPy tutorial. 
 - [A Quick Introduction to the NumPy Library](https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db) - another shameless promotion of my content: a quick intro to NumPy.
+- [NumPy Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#numpy) - IPython Notebook(s) demonstrating NumPy functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
 
 
 ## Websites to Practice Python/Coding
