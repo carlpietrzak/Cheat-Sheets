@@ -67,8 +67,9 @@
   - [Random Forest Regressor Documentation](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
   - [Random Forest Classifier Documentation](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 - [A Complete Tutorial on Tree Based Modeling from Scratch](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
-- ["Decision Trees - Decoded"](https://medium.com/data-science-group-iitr/decision-trees-decoded-c70b4f7ff542) - a blog post on tree based methods, which consists of Decision Trees, Random Forest and Boosting methods.
-- ["Bagging - Unraveled"](https://medium.com/data-science-group-iitr/bagging-unraveled-8141ca078ccc) - a blog post on Bagging or Bootstrap Aggregating.
+- [Decision Trees in Python](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-29.html) - example on the Titanic dataset: implementation of decision trees in Python.
+- [Randam Forests in Python](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-part-30-random.html) - example on the Titanic dataset: implementation of random forests in Python.
+- [In-Depth: Decision Trees and Random Forests](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html) - a chapter from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 - [Selecting Good Features: Random Forests](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/)
 - [Feature Importances with Forests of Trees](http://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html) - this example shows the use of forests of trees to evaluate the importance of features on an artificial classification task.
 
