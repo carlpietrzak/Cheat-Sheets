@@ -55,6 +55,8 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 ## Tree Based Methods (Decision Trees and Random Forests)
 - [Random Forests Guide](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 - [How does randomization in a random forest work?](https://www.quora.com/How-does-randomization-in-a-random-forest-work?redirected_qid=212859)
+- ["Decision Trees - Decoded"](https://medium.com/data-science-group-iitr/decision-trees-decoded-c70b4f7ff542) - a blog post on tree based methods, which consists of Decision Trees, Random Forest and Boosting methods.
+- ["Bagging - Unraveled"](https://medium.com/data-science-group-iitr/bagging-unraveled-8141ca078ccc) - a blog post on Bagging or Bootstrap Aggregating.
 
 ## Clustering
 - [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/)
