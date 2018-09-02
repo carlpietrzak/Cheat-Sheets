@@ -6,7 +6,6 @@
 - [Python - Data Science Tutorial](https://www.tutorialspoint.com/python/python_data_science.htm) - another tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
 - [Python for Data Analysis](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html) - a blog with a detailed guide for data analysis with Python from A (Python basics) to Z (building predictive models in Python).
 - [Data Exploration in Python](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf) - using NumPy, Pandas and Matplotlib. 
-- [EDA Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python#gs.T3TSKbk)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - this website contains the full text of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas.
   - The content is also available on a [GitHub Repo](https://github.com/jakevdp/PythonDataScienceHandbook) in the form of Jupyter notebooks.
 
@@ -26,6 +25,7 @@
 
 ## Exploratory Data Analysis
 - [Introduction to Exploratory Data Analysis](https://github.com/ritikabhasker/Intro-to-EDA) - a GitHub repo of a workshop and lesson on Exploratory Data Analysis from [Ritika Bhasker's GitHub](https://github.com/ritikabhasker).
+- [EDA Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python#gs.T3TSKbk)
 - [What is a Data Detective? How to go Deeper With Your Data](https://www.elderresearch.com/blog/be-a-data-detective)
 
 ### Statistics in Python
