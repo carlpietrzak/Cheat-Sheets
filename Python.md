@@ -40,6 +40,7 @@ great (graphical) explanation of list comprehension in Python.
 - [Python Functions Tutorial](http://www.tutorialspoint.com/python/python_functions.htm) - a tutorial on functions in Python.
 - [Python Course - Functions](https://www.python-course.eu/python3_functions.php)
 - [Python Practice Book - Functions](https://anandology.com/python-practice-book/getting-started.html#functions)
+- [Learn Python - Functions](https://www.learnpython.org/en/Functions)
   
 ## Websites to Practice Python/Coding
 - [Codewars](https://www.codewars.com)
