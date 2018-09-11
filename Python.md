@@ -12,8 +12,7 @@
 - [A Whirlwind Tour of Python](https://www.safaribooksonline.com/library/view/a-whirlwind-tour/9781492037859/) - a free tutorial for Python - "a brief yet comprehensive introduction to Python for engineers, researchers, and data scientists who are already familiar with another programming language." Also available in a [free PDF file](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
   - [A Whirlwind Tour of Python - GitHub Repo](https://github.com/jakevdp/WhirlwindTourOfPython) - a repository that contains the Jupyter Notebooks behind the O'Reilly report, A Whirlwind Tour of Python. 
 - [Python Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#python-data) - IPython Notebook(s) demonstrating Python functionality geared towards data analysis. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
-- [Real Python](http://www.realpython.com)
-
+- [Real Python Tutorials](http://www.realpython.com) - "at Real Python you can learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond."
 
 ### Python Data Types, Control Flow and Functions
 #### Python Data Types and Variables
