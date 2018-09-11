@@ -1,4 +1,4 @@
-# Statistics Resources 
+# Statistics and Math Resources 
 
 ## General Statistics
 - [Think Stats](https://greenteapress.com/wp/think-stats-2e/) - _Think Stats_ is an introduction to Probability and Statistics for Python programmers.
