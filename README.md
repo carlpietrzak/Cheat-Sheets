@@ -16,6 +16,6 @@ This repository contains resources and cheatsheets that will be helpful for the 
 
 - [Natural Language Processing](NLP.md) - Natural Language Processing resources: NLTK, SKLearn NLP and more.
 
-- [Statistics](Statistics.md) - mostly optional reading for students who would like to deepen their understanding of statistics.
+- [Statistics](Statistics.md) - mostly optional reading for students who would like to deepen their understanding of statistics and math.
 
 - [Datasets](Datasets.md) -  links to interesting datasets.
