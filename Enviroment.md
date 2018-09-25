@@ -18,6 +18,7 @@
 ## Jupyter Notebook
 - [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
   * [Jupyter Notebook GitHub](https://github.com/jupyter/notebook)
+    - [Jupyter Notebook Resources](https://github.com/jupyter/notebook#resources)
 
 ### Jupyter Notebook Tutorials
 - [Jupyter Notebook Quick Start Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html) - a brief step-by-step tutorial on installing and running Jupyter notebooks on local computer for new users who have no familiarity with python. Most useful is the [Running the Jupyter Notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) part.
