@@ -10,6 +10,9 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [The Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.6/stat-cookbook.pdf) - The probability and statistics cookbook is a succinct representation of various topics in probability theory and statistics. It provides a comprehensive mathematical reference reduced to its essence, rather than aiming for elaborate explanations. [Source](http://statistics.zone); [GitHub Repo](https://github.com/mavam/stat-cookbook).
 - [Think Bayes](http://greenteapress.com/wp/think-bayes/) - Bayesian statistics is beyond the scope of this class, but if you're interested, this is a great book. Free PDF can be downloaded as well.
 
+## Probability 
+- [Basics of Probability for Data Science](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/) 
+
 ## Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
@@ -21,6 +24,7 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [Khan Academy Section on Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample).
 - [Khan Academy Section on Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample).
 - [StackOverflow Link to Confidence Interval in SciPy](http://stackoverflow.com/questions/28242593/correct-way-to-obtain-confidence-interval-with-scipy).
+- [Comprehensive & Practical Inferential Statistics Guide for Data Science](https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-inferential-statistics-data-science/)
 - [Computer-age Statistical Inference](http://web.stanford.edu/~hastie/CASI/) - A 2016 book that covers various topics in statistical inference that are relevant in this data-science era, with scalable techniques applicable to large datasets. A free PDF can be [downloaded from here](https://web.stanford.edu/~hastie/CASI_files/PDF/casi_corrected_11102017.pdf).
 
 ## Linear Regression
