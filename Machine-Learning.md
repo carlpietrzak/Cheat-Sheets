@@ -1,6 +1,7 @@
 # Machine Learning Resources
 
 ## General Machine Learning
+### Official Documentation and Tutorials
 - [Scikit-Learn Official Documentation](http://scikit-learn.org/stable/documentation.html)
   - [Scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
     - [An Introduction to Machine Learning with Scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
@@ -10,6 +11,8 @@
   - [Scikit-Learn - Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/) - a flowchart designed to give users a bit of a rough guide on how to approach problems with regard to which estimators to try on your data.
   - [Sklearn Documentation on Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
   - [Scikit-Learn - Model Evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation) - quantifying the quality of predictions.
+  
+### Other Tutorials and Guides  
 - [scikit-learn Beginner Tutorials](https://github.com/mmmayo13/scikit-learn-beginners-tutorials) - abridged implementation of the official scikit-learn beginner tutorials.
 - [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) - this repository contains notebooks and other files associated with [Jake Vanderplas](https://github.com/jakevdp)'s Scikit-learn tutorial.
   - [Index Notebook on GitHub](https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
