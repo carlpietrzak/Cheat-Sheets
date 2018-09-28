@@ -69,3 +69,9 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [Visualizing K-Means Clustering](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/) - a thoretical as well as a visual overview of the K-Means algorithm.
 - [Visualizing DBSCAN Clustering](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) - same as the previous link, just for DBSCAN clustering algorithm. 
 - [Stanford Walkthrough of Hierarchical Clustering](http://www.econ.upf.edu/%7Emichael/stanford/maeb7.pdf)
+
+
+## Linear Algebra
+- [Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear-algebra-machine-learning/) - a great review of self-guided resources to learn Linear Algebra relevant to Data Science (and then some). 
+- [Linear Algebra Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html) - a brief overview of basic linear algebra concepts, taken from [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html).
+- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - a YouTube playlist of *videos* that provide an excellent introduction to linear algebra. "A geometric understanding of matrices, determinants, eigen-stuffs and more."
