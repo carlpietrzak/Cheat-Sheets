@@ -19,7 +19,7 @@
   - [Index Notebook on nbviewer](http://nbviewer.jupyter.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
 - [Chris Albon's Machine Learning Tutorials](https://chrisalbon.com/#machine_learning) - detailed guides on how to do everything data science and machine learning related.
 - [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - an excellent ebook with a detailed Machine Learning guide, including real world examples. "Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system."
-- [Machine Learning in Python](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
+- [Machine Learning in Python](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning) - chapter 5, Machine Learning in Python from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
 - From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks):
   - [Scikit-Learn notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn) - IPython Notebook(s) demonstrating scikit-learn functionality.
   - [SciPy Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#statistical-inference-scipy) - IPython Notebook(s) demonstrating statistical inference with SciPy functionality.
