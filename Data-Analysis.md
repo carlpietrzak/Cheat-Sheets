@@ -33,7 +33,6 @@
 - [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/#3.-Data-Manipulation-with-Pandas) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - a BitBucket repo with Pandas lessons, cookbooks and tools.
 - [Pandas Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) - IPython Notebook(s) demonstrating pandas functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
- - [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#3.-Data-Manipulation-with-Pandas) - chapter 3 of [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). 
 - [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
 - [Difference between using 'loc' and Square Brackets for Selecting Columns](https://stackoverflow.com/questions/48409128/what-is-the-difference-between-using-loc-and-using-just-square-brackets-to-filte) - a Stackoverflow post on what is the difference between using loc and using just square brackets to filter for columns in Pandas/Python?
 - [List of Resources for Learning Data Analysis with Pandas](http://www.dataschool.io/best-python-pandas-resources/) - from Data School.
