@@ -23,6 +23,7 @@
 - From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks):
   - [Scikit-Learn notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn) - IPython Notebook(s) demonstrating scikit-learn functionality.
   - [SciPy Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#statistical-inference-scipy) - IPython Notebook(s) demonstrating statistical inference with SciPy functionality.
+- [Learn Data Science](https://github.com/nborwankar/LearnDataScience) - a collection of Data Science Learning materials in the form of Jupyter Notebooks.
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm) - machine learning in Python tutorial.
 - [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) - a video series that explains how solve machine learning problems using Python's popular scikit-learn library.  
 - [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
