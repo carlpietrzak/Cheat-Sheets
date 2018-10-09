@@ -1,5 +1,12 @@
 # Machine Learning Resources
 
+
+
+- [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - his repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code. 
+
+
+
+
 ## General Machine Learning
 ### Official Documentation and Tutorials
 - [Scikit-Learn Official Documentation](http://scikit-learn.org/stable/documentation.html)
@@ -41,6 +48,7 @@
 ### Regression
 - [Scikit-Learn Generalized Linear Models Documentation](http://scikit-learn.org/stable/modules/linear_model.html)
 - [Linear Regression with Statsmodels and Scikit-Learn](http://marcharper.codes/2016-06-14/Linear+Regression+with+Statsmodels+and+Scikit-Learn.html) - a Jupyter Notebook with linear regression examples in Statsmodels and Scikit-Learn.
+- [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) - a quick introduction to linear regression in Python I wrote.
 - [Scikit-Learn Regularization and Gradient Descent](http://marcharper.codes/2016-06-21/Regularization+Examples.html) - examples of regularization of linear models.
 - [Scikit-Learn Regression Metrics](http://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics)
 
@@ -48,10 +56,8 @@
 - [Sklearn Documentation on Train Test Split](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 - [Sklearn Documentation on Cross Validation](http://scikit-learn.org/stable/modules/cross_validation.html)
 - [Stanford Lecture on Cross Validation](https://www.youtube.com/watch?v=_2ij6eaaSl0)
-- [StackExchange Discussion on Approximate TTS, validation Set Sizes](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)
-- [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - excellent read on the bias variance tradeoff.
-- [Bias-Variance Tradeoff Lecture](https://www.youtube.com/watch?v=zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
 - [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) - a blog post I wrote about the Train-Test Split and Cross Validation in Python.
+- [StackExchange Discussion on Approximate TTS, validation Set Sizes](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)
 
 ### Classification
 - [SKLearn Classifier Comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
@@ -61,7 +67,7 @@
 - [SKLearn Documentation on Implementing KNN](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) - K-Neighbors Classifier
 - [K-Nearest Neighbors Examples](http://marcharper.codes/2016-06-22/Classification.html) - an example of K-Nearest Neighbors Classifier (in a Jupyter Notebook).
 - [Precision-Recall](http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py)
-- [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html)
+- [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html) - how to plot an ROC curve using Python and an explanation of the characteristics of a basic ROC curve.
 
 ### Tree Based Methods
 - [Decision Trees in Scikit-learn](http://scikit-learn.org/stable/modules/tree.html)
