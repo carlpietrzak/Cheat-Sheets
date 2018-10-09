@@ -84,6 +84,7 @@
 
 ## Unsupervised Learning
 - [Scikit-Learn Unsupervised Learning Documentation](http://scikit-learn.org/stable/unsupervised_learning.html)
+- [ISL Chapter 10 - Unsupervised Learning](http://nbviewer.jupyter.org/github/JWarmenhoven/ISL-python/blob/master/Notebooks/Chapter%2010.ipynb) - examples of Unsupervised Learning: Principal Component Analysis, K-Means Clustering and Hierarchical Clustering. Chapter 10 out of [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python).
 
 ### Clustering
 - [Scikit-Learn Clustering Overview](http://scikit-learn.org/stable/modules/clustering.html)
