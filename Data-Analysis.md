@@ -53,6 +53,7 @@
 ### Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
+- [Chris Albon's Statistics Tutorials](https://chrisalbon.com/#statistics) 
 
 
 ### NumPy
