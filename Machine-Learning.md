@@ -1,12 +1,5 @@
 # Machine Learning Resources
 
-
-
-- [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - his repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code. 
-
-
-
-
 ## General Machine Learning
 ### Official Documentation and Tutorials
 - [Scikit-Learn Official Documentation](http://scikit-learn.org/stable/documentation.html)
@@ -44,6 +37,7 @@
 - [Scikit-Learn Supervised Learning Documentation](http://scikit-learn.org/stable/supervised_learning.html)
 - [Scikit-learn Basics Tutorial](http://marcharper.codes/2016-01-24/Abalone.html) - a quick tutorial of how to visualize, estimate, and classify with the Abalone dataset.
 - [Introduction to Machine Learning in Python with Scikit-Learn (video series)](https://www.dataschool.io/machine-learning-with-scikit-learn/) - a series of scikit-learn video tutorials, from [Data School](https://www.dataschool.io). There's also a [GitHub repository with Jupyter Notebooks](https://github.com/justmarkham/scikit-learn-videos).
+- [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - his repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code. 
 
 ### Regression
 - [Scikit-Learn Generalized Linear Models Documentation](http://scikit-learn.org/stable/modules/linear_model.html)
