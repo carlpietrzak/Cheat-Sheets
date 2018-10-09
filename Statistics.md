@@ -5,6 +5,7 @@
 - [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)  - This book provides an introduction to statistical learning methods. 
 It's also provides code in R (which is not relevant for our class), but it's really great from the theoretical perspective. Website contains a free PDF.  
   - [Introduction to Statistical Learning Video Series](https://www.youtube.com/user/dataschool/playlists?shelf_id=4&view=50&sort=dd) - a YouTube playlist of videos accompanying the chapters of the ISL book.
+  - [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - this repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code. 
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - This book is a more advanced book, but also a great resource. You can download a PDF version for free. 
 - [Khan Academy's Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) classes are pretty good introduction to statistics and probability.
 - [The Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.6/stat-cookbook.pdf) - The probability and statistics cookbook is a succinct representation of various topics in probability theory and statistics. It provides a comprehensive mathematical reference reduced to its essence, rather than aiming for elaborate explanations. [Source](http://statistics.zone); [GitHub Repo](https://github.com/mavam/stat-cookbook).
@@ -55,7 +56,7 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 ## Bias-Variance Tradeoff
 - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - excellent (and even a must!) read on the bias variance tradeoff.
 - [Accurately Measuring Model Prediction Error](http://scott.fortmann-roe.com/docs/MeasuringError.html) - another excellent article from [Scott Fortmann-Roe](http://scott.fortmann-roe.com).
-- [Bias-Variance Tradeoff Lecture](https://www.youtube.com/watch?v=zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
+- [Bias-Variance Tradeoff Lecture](https://youtu.be/zrEyxfl2-a8?t=10) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
 
 ## Tree Based Methods (Decision Trees and Random Forests)
 - [Random Forests Guide](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
