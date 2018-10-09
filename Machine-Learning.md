@@ -100,3 +100,8 @@
 - [Clustering with Sklearn](http://marcharper.codes/2016-07-11/Clustering+with+Scikit-Learn.html) - a Jupyter Notebook with clustering algorithms in Scikit-Learn.
 - ["The 5 Clustering Algorithms Data Scientists Need to Know"](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - a blog post on clustering algorithms.
 - [An Introduction to K-means Clustering Analysis](http://blog.galvanize.com/introduction-k-means-cluster-analysis/) - contains a theoretical explanation, pseudocode and Python code examples.
+
+### Principal Component Analysis
+- [Principal component analysis (PCA)](http://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca) - SKLearn documentation on PCA. 
+- [A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) - a blog post with an excellent introduction to Principal Component Analysis.
+- [Principal Component Analysis Explained Visually](http://setosa.io/ev/principal-component-analysis/)
