@@ -41,10 +41,14 @@
 
 ### Regression
 - [Scikit-Learn Generalized Linear Models Documentation](http://scikit-learn.org/stable/modules/linear_model.html)
+- [Scikit-Learn Regression Metrics](http://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics)
 - [Linear Regression with Statsmodels and Scikit-Learn](http://marcharper.codes/2016-06-14/Linear+Regression+with+Statsmodels+and+Scikit-Learn.html) - a Jupyter Notebook with linear regression examples in Statsmodels and Scikit-Learn.
 - [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) - a quick introduction to linear regression in Python I wrote.
 - [Scikit-Learn Regularization and Gradient Descent](http://marcharper.codes/2016-06-21/Regularization+Examples.html) - examples of regularization of linear models.
-- [Scikit-Learn Regression Metrics](http://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics)
+- [Data School's "Friendly Introduction to Linear Regression" using Python](http://www.dataschool.io/linear-regression-in-python/)
+- [A Comprehensive Beginners Guide for Linear, Ridge and Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
+- [A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
+- [Introduction to Regression Splines (with Python codes)](https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes/)
 
 ### Classification
 - [SKLearn Classifier Comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
