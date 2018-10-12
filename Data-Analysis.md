@@ -63,3 +63,4 @@
 - [NumPy Tutorial](https://www.tutorialspoint.com/numpy/) - a very detailed NumPy tutorial. 
 - [A Quick Introduction to the NumPy Library](https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db) - another shameless promotion of my content: a quick intro to NumPy.
 - [NumPy Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#numpy) - IPython Notebook(s) demonstrating NumPy functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
+- [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/#2.-Introduction-to-NumPy) - a chapter from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
