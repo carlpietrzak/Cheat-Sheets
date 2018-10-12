@@ -21,8 +21,8 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 
 ## Statistical Inference
 - [STAT 415 Intro Mathematical Statistics (Penn State)](https://onlinecourses.science.psu.edu/stat414/node/213) - great resource for more details on statistical inference. Its preceding course, [STAT 414 Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/node/287/) is also worth checking. 
-- [Khan Academy Section on Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample).
-- [Khan Academy Section on Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample).
+- [Khan Academy Lesson on Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample).
+- [Khan Academy Lesson on Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample).
 - [StackOverflow Link to Confidence Interval in SciPy](http://stackoverflow.com/questions/28242593/correct-way-to-obtain-confidence-interval-with-scipy).
 - [Comprehensive & Practical Inferential Statistics Guide for Data Science](https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-inferential-statistics-data-science/)
 - [Computer-age Statistical Inference](http://web.stanford.edu/~hastie/CASI/) - A 2016 book that covers various topics in statistical inference that are relevant in this data-science era, with scalable techniques applicable to large datasets. A free PDF can be [downloaded from here](https://web.stanford.edu/~hastie/CASI_files/PDF/casi_corrected_11102017.pdf).
