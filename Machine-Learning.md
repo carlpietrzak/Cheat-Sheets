@@ -28,6 +28,8 @@
 - [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) - a video series that explains how solve machine learning problems using Python's popular scikit-learn library.  
 - [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 - [Scipy Lecture Notes](http://www.scipy-lectures.org) - one document to learn numerics, science, and data with Python.
+
+#### Feature Selection
 - [Feature Selection For Machine Learning in Python](https://machinelearningmastery.com/feature-selection-machine-learning-python/)
 - [Side-by-side Comparison of Feature Selection Tactics](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
 - [Walkthrough on Feature Selection in Python](https://www.dummies.com/programming/big-data/data-science/how-to-use-python-to-select-the-right-variables-for-data-science/)
