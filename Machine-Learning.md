@@ -34,7 +34,6 @@
 - [Side-by-side Comparison of Feature Selection Tactics](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
 - [Walkthrough on Feature Selection in Python](https://www.dummies.com/programming/big-data/data-science/how-to-use-python-to-select-the-right-variables-for-data-science/)
 
-
 ## Supervised Learning
 - [Scikit-Learn Supervised Learning Documentation](http://scikit-learn.org/stable/supervised_learning.html)
 - [Scikit-learn Basics Tutorial](http://marcharper.codes/2016-01-24/Abalone.html) - a quick tutorial of how to visualize, estimate, and classify with the Abalone dataset.
@@ -53,6 +52,7 @@
 - [A Comprehensive Beginners Guide for Linear, Ridge and Lasso Regression](https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/)
 - [A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
 - [Introduction to Regression Splines (with Python codes)](https://www.analyticsvidhya.com/blog/2018/03/introduction-regression-splines-python-codes/)
+- [Regression Metrics](http://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics) - from SKLearn's [Model Evaluation User Guide](http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation)
 
 ### Classification
 - [SKLearn Classifier Comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
@@ -72,6 +72,7 @@
 - [Tutorial To Implement K-Nearest Neighbors in Python From Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 
 #### Classification Models Evaluation
+- [Classification Metrics](http://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics) - from SKLearn's [Model Evaluation User Guide](http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation)
 - [Precision-Recall](http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py)
 - [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html) - how to plot an ROC curve using Python and an explanation of the characteristics of a basic ROC curve.
 
