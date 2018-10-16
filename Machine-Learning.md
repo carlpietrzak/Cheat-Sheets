@@ -57,10 +57,20 @@
 ### Classification
 - [SKLearn Classifier Comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
 - [Introduction to Implementing scikit-learn Classifiers](https://github.com/mmmayo13/scikit-learn-classifiers) - an introduction to implementing a number of scikit-learn classifiers, along with some data exploration. Excellent resources, contains examples in Jupyter Notebooks and many useful links. 
+
+#### Logistic Regression
+- [Logistic Regression Documentation](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [Logistic Regression in SKLearn User Guide](http://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 - [Logistic Regression with Scikit-Learn](http://marcharper.codes/2016-06-27/Logistic+Regression.html) - a Jupyter Notebook with a logistic regression example.
 - [Logistic Regression with Statsmodels](http://nbviewer.ipython.org/urls/raw.github.com/carljv/Will_it_Python/master/ARM/ch5/arsenic_wells_switching.ipynb) - another Jupyter Notebook with a logistic regression example.
+
+#### K-Nearest Neighbors
 - [SKLearn Documentation on Implementing KNN](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) - K-Neighbors Classifier
+- [Nearest Neighbors Classification - SKLearn User Guide](http://scikit-learn.org/stable/modules/neighbors.html#classification)
 - [K-Nearest Neighbors Examples](http://marcharper.codes/2016-06-22/Classification.html) - an example of K-Nearest Neighbors Classifier (in a Jupyter Notebook).
+- [Model Training and Prediction with K-Nearest Neighbors](http://blog.kaggle.com/2015/04/30/scikit-learn-video-4-model-training-and-prediction-with-k-nearest-neighbors/)
+
+#### Classification Models Evaluation
 - [Precision-Recall](http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py)
 - [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html) - how to plot an ROC curve using Python and an explanation of the characteristics of a basic ROC curve.
 
@@ -70,7 +80,6 @@
 - [Stanford Lecture on Cross Validation](https://www.youtube.com/watch?v=_2ij6eaaSl0)
 - [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) - a blog post I wrote about the Train-Test Split and Cross Validation in Python.
 - [StackExchange Discussion on Approximate TTS, validation Set Sizes](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)
-
 
 ### Tree Based Methods
 - [Decision Trees in Scikit-learn](http://scikit-learn.org/stable/modules/tree.html)
