@@ -43,6 +43,7 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 
 ### K-Nearest Neigbors 
 - [A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/)
+- [K-Nearest Neighbors: Dangerously Simple](https://mathbabe.org/2013/04/04/k-nearest-neighbors-dangerously-simple/)
 
 ### Evaluating Classifiers: Confusion Matrix, AUC-ROC
 - [An Introduction to Confusion Matrix Terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/) - simple guide to confusion matrix terminology, from [Data School](https://www.dataschool.io). 
