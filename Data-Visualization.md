@@ -30,8 +30,6 @@
   - [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
 - [Seaborn Tutorial](https://www.tutorialspoint.com/seaborn/index.htm)
 - [Seaborn Plotting](https://python-graph-gallery.com/seaborn/) - from [Python Graph Gallery](https://python-graph-gallery.com).
-- [How to prevent overlapping x-axis labels in sns.countplot](https://stackoverflow.com/questions/42528921/how-to-prevent-overlapping-x-axis-labels-in-sns-countplot) - from [stackoverflow](https://stackoverflow.com)
-- [How do I change the figure size for a seaborn plot?](https://stackoverflow.com/questions/31594549/how-do-i-change-the-figure-size-for-a-seaborn-plot?noredirect=1&lq=1) - from [stackoverflow](https://stackoverflow.com)
 
 ## Bokeh
 - [Bokeh Official Documentation](https://bokeh.pydata.org/en/latest/)
