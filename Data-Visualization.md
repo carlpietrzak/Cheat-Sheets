@@ -28,8 +28,11 @@
   - [An Introduction to Seaborn](https://seaborn.pydata.org/introduction.html)
   - [Official Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
   - [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
+  - [Seaborn API reference](https://seaborn.pydata.org/api.html)
+- [DataCamp's Seaborn Tutorial](https://www.datacamp.com/community/tutorials/seaborn-python-tutorial)
 - [Seaborn Tutorial](https://www.tutorialspoint.com/seaborn/index.htm)
 - [Seaborn Plotting](https://python-graph-gallery.com/seaborn/) - from [Python Graph Gallery](https://python-graph-gallery.com).
+- [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html) - a sub-chapter in - [Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#4.-Visualization-with-Matplotlib) dedicated to Seaborn.
 
 ## Bokeh
 - [Bokeh Official Documentation](https://bokeh.pydata.org/en/latest/)
