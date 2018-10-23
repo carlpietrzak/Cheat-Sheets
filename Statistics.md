@@ -110,5 +110,5 @@
 ## Linear Algebra
 - [Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear-algebra-machine-learning/) - a great review of self-guided resources to learn Linear Algebra relevant to Data Science (and then some). 
 - [Linear Algebra Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html) - a brief overview of basic linear algebra concepts, taken from [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html).
-- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - a YouTube playlist of *videos* that provide an excellent introduction to linear algebra. "A geometric understanding of matrices, determinants, eigen-stuffs and more."
+- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - a YouTube playlist of **videos** that provide an excellent introduction to linear algebra. "A geometric understanding of matrices, determinants, eigen-stuffs and more."
 - [Linear Algebra and Calculus Refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus) - from Stanford University's CS 229 - Machine Learning course. 
