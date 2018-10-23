@@ -63,6 +63,7 @@
 - [Logistic Regression in SKLearn User Guide](http://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 - [Logistic Regression with Scikit-Learn](http://marcharper.codes/2016-06-27/Logistic+Regression.html) - a Jupyter Notebook with a logistic regression example.
 - [Logistic Regression with Statsmodels](http://nbviewer.ipython.org/urls/raw.github.com/carljv/Will_it_Python/master/ARM/ch5/arsenic_wells_switching.ipynb) - another Jupyter Notebook with a logistic regression example.
+- [Data School: Logistic Regression In-Depth](http://www.dataschool.io/guide-to-logistic-regression/) - a lot of statistical, mathematical, applied and Machine Learning resources on Logistic Regression. 
 
 #### K-Nearest Neighbors
 - [SKLearn Documentation on Implementing KNN](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) - K-Neighbors Classifier
