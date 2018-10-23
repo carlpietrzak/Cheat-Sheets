@@ -55,8 +55,10 @@
 ### Classification
 #### Logistic Regression
 - [Logistic Regression Walkthrough](http://www.mc.vanderbilt.edu/gcrc/workshop_files/2004-11-12.pdf)
-- [Logistic Regression Video Walkthrough](https://www.youtube.com/watch?v=zAULhNrnuL4&noredirect=1)
+- [Logistic Regression Video Walkthrough](https://www.youtube.com/watch?v=zAULhNrnuL4&noredirect=1) - **video**.
 - [Odds Ratio Explanation](http://www.wright.edu/%7Ethaddeus.tarpey/ES714glm.pdf)
+- [Logistic Regression for Machine Learning](http://machinelearningmastery.com/logistic-regression-for-machine-learning/) - in this post you will discover the logistic regression algorithm for machine learning. This post was written for developers interested in applied machine learning, specifically predictive modeling.
+- [Video: Andrew Ng on Logistic Regression](https://www.youtube.com/watch?v=-la3q9d7AKQ) - a **video** on Logistic Regression from Andrew Ng's Machine Learning course. 
 
 #### K-Nearest Neigbors 
 - [A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/)
@@ -68,14 +70,14 @@
 - [Precision, Recall, Sensitivity and Specificity](https://uberpython.wordpress.com/2012/01/01/precision-recall-sensitivity-and-specificity/) - a useful discussion on confusion matrices.
 - [Data School's Video and Transcript on ROC/AUC](https://www.dataschool.io/roc-curves-and-auc-explained/)
 - [A Deeper Introduction to ROC](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf)
-- [Rahul Patwari's video on ROC Curves and Sensitivity-Specificity tradeoffs](https://www.youtube.com/watch?v=21Igj5Pr6u4)
+- [Rahul Patwari's video on ROC Curves and Sensitivity-Specificity tradeoffs](https://www.youtube.com/watch?v=21Igj5Pr6u4) - **video**.
 
 ### Bias-Variance Tradeoff
 - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - excellent (and even a must!) read on the bias variance tradeoff.
 - [Bias-Variance Tradeoff Notes](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#diagnostics)
 - [Accurately Measuring Model Prediction Error](http://scott.fortmann-roe.com/docs/MeasuringError.html) - another excellent article from [Scott Fortmann-Roe](http://scott.fortmann-roe.com).
 - [Bias-Variance Tradeoff Lecture](https://youtu.be/zrEyxfl2-a8?t=10) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
-- [Stanford Lecture on Cross Validation](https://www.youtube.com/watch?v=_2ij6eaaSl0)
+- [Stanford Lecture on Cross Validation](https://www.youtube.com/watch?v=_2ij6eaaSl0) - **video**.
 - [Model Selection Notes](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#model-selection) - from Stanford University's CS 229 - Machine Learning course.
  
 ### Tree Based Methods (Decision Trees and Random Forests)
@@ -86,7 +88,7 @@
 
 ### Support Vector Machines (SVM)
 - [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93) - learning SVMs from examples; an excellent blog post on Support Vector Machines. 
-- [How Support Vector Machines Work](https://www.youtube.com/watch?v=-Z4aojJ-pdg) - a video with an introduction to how support vector machines work.
+- [How Support Vector Machines Work](https://www.youtube.com/watch?v=-Z4aojJ-pdg) - a **video** with an introduction to how Support Vector Machines work.
 
 ## Unsupervised Learning
 - [Unsupervised Learning Notes/Cheat Sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
