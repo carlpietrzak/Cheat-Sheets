@@ -1,6 +1,6 @@
 # Data Science Resources
 
-This repository contains resources and cheatsheets that will be helpful for the course (and after it!). 
+Repository of resources and cheatsheets. 
 
 - [Cheat Sheets](Cheat-Sheets) - a lot of useful cheat sheets for Python, data analysis, machine learning, Git and more.
 - [Development Environment](Enviroment.md) - development environment resources: Command Line, Git, Jupyter Notebook, etc. 
