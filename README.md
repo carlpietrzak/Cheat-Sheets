@@ -9,5 +9,5 @@ Repository of resources and cheatsheets.
 - [Data Visualization](Data-Visualization.md) - various data visualization guides - Pandas plotting, Matplotlib, Seaborn, Bokeh. 
 - [Machine Learning](Machine-Learning.md) - different machine learning guides: supervised learning (regression, classification, tree-based models etc), unsupervised learning (clustering), feature selection, model evaluation, etc. 
 - [Natural Language Processing](NLP.md) - Natural Language Processing resources: NLTK, SKLearn NLP and more.
-- [Statistics and Math](Statistics.md) - mostly optional reading for students who would like to deepen their understanding of statistics and math.
+- [Statistics and Math](Statistics.md) - for brushing up on statistics and math.
 - [Datasets](Datasets.md) -  links to interesting datasets.
